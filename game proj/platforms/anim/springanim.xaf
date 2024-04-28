@@ -1,0 +1,261 @@
+<MaxAnimation version="1.00" date="Sun Apr 28 21:52:25 2024">
+    <SceneInfo fileName="home-spring.max" startTick="0" endTick="9600" frameRate="30" ticksPerFrame="160" />
+    <CustomData />
+    <Node name="Helix001" parentNode="Scene Root" parentNodeIndex="0" numChildren="1">
+        <Samples count="61">
+            <S t="0" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="160" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="320" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="480" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="640" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="800" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="960" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="1120" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="1280" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="1440" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="1600" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="1760" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="1920" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="2080" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="2240" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="2400" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="2560" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="2720" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="2880" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="3040" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="3200" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="3360" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="3520" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="3680" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="3840" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="4000" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="4160" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="4320" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="4480" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="4640" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="4800" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="4960" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="5120" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="5280" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="5440" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="5600" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="5760" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="5920" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="6080" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="6240" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="6400" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="6560" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="6720" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="6880" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="7040" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="7200" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="7360" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="7520" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="7680" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="7840" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="8000" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="8160" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="8320" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="8480" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="8640" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="8800" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="8960" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="9120" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="9280" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="9440" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+            <S t="9600" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000" />
+        </Samples>
+        <Controller name="Helix001 \ Transform \ Position" classOf="Position XYZ" classID="118F7E02,FFEE238A" superClassID="900B" subNum="0" numChildren="3" filterType="pos" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Samples count="61">
+                <P3Val t="0" v="0.0 0.0 0.0 " />
+                <P3Val t="160" v="0.0 0.0 0.0 " />
+                <P3Val t="320" v="0.0 0.0 0.0 " />
+                <P3Val t="480" v="0.0 0.0 0.0 " />
+                <P3Val t="640" v="0.0 0.0 0.0 " />
+                <P3Val t="800" v="0.0 0.0 0.0 " />
+                <P3Val t="960" v="0.0 0.0 0.0 " />
+                <P3Val t="1120" v="0.0 0.0 0.0 " />
+                <P3Val t="1280" v="0.0 0.0 0.0 " />
+                <P3Val t="1440" v="0.0 0.0 0.0 " />
+                <P3Val t="1600" v="0.0 0.0 0.0 " />
+                <P3Val t="1760" v="0.0 0.0 0.0 " />
+                <P3Val t="1920" v="0.0 0.0 0.0 " />
+                <P3Val t="2080" v="0.0 0.0 0.0 " />
+                <P3Val t="2240" v="0.0 0.0 0.0 " />
+                <P3Val t="2400" v="0.0 0.0 0.0 " />
+                <P3Val t="2560" v="0.0 0.0 0.0 " />
+                <P3Val t="2720" v="0.0 0.0 0.0 " />
+                <P3Val t="2880" v="0.0 0.0 0.0 " />
+                <P3Val t="3040" v="0.0 0.0 0.0 " />
+                <P3Val t="3200" v="0.0 0.0 0.0 " />
+                <P3Val t="3360" v="0.0 0.0 0.0 " />
+                <P3Val t="3520" v="0.0 0.0 0.0 " />
+                <P3Val t="3680" v="0.0 0.0 0.0 " />
+                <P3Val t="3840" v="0.0 0.0 0.0 " />
+                <P3Val t="4000" v="0.0 0.0 0.0 " />
+                <P3Val t="4160" v="0.0 0.0 0.0 " />
+                <P3Val t="4320" v="0.0 0.0 0.0 " />
+                <P3Val t="4480" v="0.0 0.0 0.0 " />
+                <P3Val t="4640" v="0.0 0.0 0.0 " />
+                <P3Val t="4800" v="0.0 0.0 0.0 " />
+                <P3Val t="4960" v="0.0 0.0 0.0 " />
+                <P3Val t="5120" v="0.0 0.0 0.0 " />
+                <P3Val t="5280" v="0.0 0.0 0.0 " />
+                <P3Val t="5440" v="0.0 0.0 0.0 " />
+                <P3Val t="5600" v="0.0 0.0 0.0 " />
+                <P3Val t="5760" v="0.0 0.0 0.0 " />
+                <P3Val t="5920" v="0.0 0.0 0.0 " />
+                <P3Val t="6080" v="0.0 0.0 0.0 " />
+                <P3Val t="6240" v="0.0 0.0 0.0 " />
+                <P3Val t="6400" v="0.0 0.0 0.0 " />
+                <P3Val t="6560" v="0.0 0.0 0.0 " />
+                <P3Val t="6720" v="0.0 0.0 0.0 " />
+                <P3Val t="6880" v="0.0 0.0 0.0 " />
+                <P3Val t="7040" v="0.0 0.0 0.0 " />
+                <P3Val t="7200" v="0.0 0.0 0.0 " />
+                <P3Val t="7360" v="0.0 0.0 0.0 " />
+                <P3Val t="7520" v="0.0 0.0 0.0 " />
+                <P3Val t="7680" v="0.0 0.0 0.0 " />
+                <P3Val t="7840" v="0.0 0.0 0.0 " />
+                <P3Val t="8000" v="0.0 0.0 0.0 " />
+                <P3Val t="8160" v="0.0 0.0 0.0 " />
+                <P3Val t="8320" v="0.0 0.0 0.0 " />
+                <P3Val t="8480" v="0.0 0.0 0.0 " />
+                <P3Val t="8640" v="0.0 0.0 0.0 " />
+                <P3Val t="8800" v="0.0 0.0 0.0 " />
+                <P3Val t="8960" v="0.0 0.0 0.0 " />
+                <P3Val t="9120" v="0.0 0.0 0.0 " />
+                <P3Val t="9280" v="0.0 0.0 0.0 " />
+                <P3Val t="9440" v="0.0 0.0 0.0 " />
+                <P3Val t="9600" v="0.0 0.0 0.0 " />
+            </Samples>
+        </Controller>
+        <Controller name="Helix001 \ Transform \ Position \ X Position" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="0" numChildren="0" filterType="posx" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="-1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Helix001 \ Transform \ Position \ Y Position" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="1" numChildren="0" filterType="posy" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="-1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Helix001 \ Transform \ Position \ Z Position" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="2" numChildren="0" filterType="posz" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="-1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Helix001 \ Transform \ Rotation" classOf="Euler XYZ" classID="2012,0" superClassID="900C" subNum="1" numChildren="3" filterType="rot" outOfRangeBefore="constant" outOfRangeAfter="constant" eulerOrder="XZY" eulerRotatingFrame="true">
+            <Samples count="61">
+                <RVal t="0" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="160" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="320" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="480" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="640" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="800" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="960" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="1120" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="1280" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="1440" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="1600" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="1760" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="1920" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="2080" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="2240" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="2400" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="2560" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="2720" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="2880" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="3040" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="3200" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="3360" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="3520" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="3680" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="3840" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4000" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4160" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4320" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4480" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4640" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4800" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4960" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="5120" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="5280" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="5440" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="5600" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="5760" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="5920" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="6080" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="6240" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="6400" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="6560" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="6720" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="6880" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="7040" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="7200" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="7360" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="7520" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="7680" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="7840" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="8000" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="8160" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="8320" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="8480" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="8640" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="8800" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="8960" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="9120" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="9280" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="9440" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="9600" v="0.0 0.0 0.0 1.0 " />
+            </Samples>
+        </Controller>
+        <Controller name="Helix001 \ Transform \ Rotation \ X Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="0" numChildren="0" filterType="rotx" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="-1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Helix001 \ Transform \ Rotation \ Y Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="1" numChildren="0" filterType="roty" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="-1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Helix001 \ Transform \ Rotation \ Z Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="2" numChildren="0" filterType="rotz" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="-1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Helix001 \ Transform \ Scale" classOf="Bezier Scale" classID="2010,0" superClassID="900D" subNum="2" numChildren="0" filterType="scale" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="2" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 1.0 1.0 -0.0 -0.0 -0.0 1.0 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+                <K t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 1.0 1.0 0.0 0.0 0.0 1.0 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="0.333300 0.333300 0.333300 " outLen="-1.000000 -1.000000 -1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Helix001 \ Modified Object \ Bend \ Angle" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="0" numChildren="0" filterType="modObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="6" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-13.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="20.500000 " inTanVal="-0.030500 " outTanVal="0.030500 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="109.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="5120" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-58.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="6560" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="68.500000 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="9280" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-13.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="-1.000000 " />
+            </Keys>
+        </Controller>
+        <Controller name="Helix001 \ Modified Object \ Helix (Object) \ Height" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="2" numChildren="0" filterType="baseObject" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="6" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="60.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="30.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="90.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="5120" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="40.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="6560" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="80.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="9280" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="60.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="-1.000000 " />
+            </Keys>
+        </Controller>
+    </Node>
+</MaxAnimation>
